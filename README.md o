@@ -1,0 +1,12 @@
+# DecodeLabs - E-commerce Sales Performance Dashboard
+
+## Description
+An interactive Excel analytics dashboard designed to analyze e-commerce sales performance, customer purchasing trends, and revenue growth, using clean data transformation, PivotTables and dynamic visualizations  
+
+## Tools used
+* **Microsoft Excel: ** Data Cleaning, Power Query, PivotTables and PivotCharts
+
+## How to Run
+Clone this repository to your local machine:
+  '''bash
+  git clone [https://github.com/abayomi-05/decodelabs.git](https://github.com/abayomi-05/decodelabs.git)
